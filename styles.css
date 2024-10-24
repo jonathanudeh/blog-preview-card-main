@@ -113,14 +113,13 @@ footer {
         overflow: hidden;
     }
 
-    header {
-        font-size: 0.8em;
+    h1 {
+        font-size: 1.5em;
     }
 
     main {
-        width: 30em;
-        height: 32em;
-        
+        width: 20em;
+        height: 26em;
     }
 
     .img-preview {
