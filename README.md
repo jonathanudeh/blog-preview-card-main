@@ -7,7 +7,7 @@ This project involves building a Blog preview card, containing introductory deta
 - ![Project image preview](assets/images/blog-preview.jpg)
 
 ## Live Demo
--Live Site url: [Live site url]
+-Live Site url: [Live site url](https://jonathanudeh.github.io/blog-preview-card-main/)
 
 ## Features
 - Blog image displays correctly
@@ -28,9 +28,9 @@ With this project my css Grid understanding got better and I got to understand m
 I will be using more of css grid layout as well as flexbox so as to get really familiarize myself with them both even though my flexbox skills are a lot smoother than that of my grid.
 
 ## Author
-- Twitter - [jaywritescodes]()
-- Github - [jonathanudeh]()
-- Frontend Mentor - [jonathanudeh]()
+- Twitter - [jaywritescodes](https://x.com/jaywritescodes)
+- Github - [jonathanudeh](https://github.com/jonathanudeh)
+- Frontend Mentor - [jonathanudeh](https://www.frontendmentor.io/profile/jonathanudeh)
 
 ## Acknoledgement
 Frontend Mentor: Thanks for providing the design and requirements for this project.
