@@ -33,7 +33,7 @@ header {
 }
 
 main {
-    width: 85vw;
+    width: 65vw;
     max-width: 800px;
     min-height: 21rem;
     background-color: var(--preview-color);
@@ -55,7 +55,7 @@ main {
     border-radius: 0.8em;
 }
 
-.learning {
+.label {
     display: block;
     max-width: 5em;
     max-height: 5em;
