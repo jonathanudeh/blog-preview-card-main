@@ -23,13 +23,15 @@ body {
 
 header {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 0.8em;
-    font-weight: 600;
     text-align: center;
     justify-self: center;
     align-self: center;
     grid-row: 1;
     grid-column: 2;
+}
+
+h1 {
+    font-size: 1em;
 }
 
 main {
@@ -112,7 +114,7 @@ footer {
     }
 
     header {
-        font-size: 2.5em;
+        font-size: 0.8em;
     }
 
     main {
